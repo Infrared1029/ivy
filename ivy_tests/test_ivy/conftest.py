@@ -10,6 +10,7 @@ mod_frontend = {
     "numpy": None,
     "jax": None,
     "torch": None,
+    "paddle": None
 }  # multiversion
 mod_backend = {
     "tensorflow": None,
